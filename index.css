@@ -40,7 +40,7 @@ body {
   margin: 0 auto;
 }
 
-.clock-container {
+.container {
   /*max-width: 500px;*/
   background-color: aliceblue;
   padding: 0 10px;
@@ -48,7 +48,7 @@ body {
   box-shadow: 1px 1px 8px gray;
 }
 
-div.clock-container > .row {
+div.container > .row {
   display: flex;
   justify-content: space-between;
 }

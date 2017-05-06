@@ -24,7 +24,7 @@ class Clock extends React.Component{
     const { time } = this.state;
     const dayMap = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
     return (
-      <div className="clock-container">
+      <div className="container">
         <div className="row">
           <h1>Time: </h1>
           <h2>
