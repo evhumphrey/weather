@@ -46,6 +46,7 @@ body {
   padding: 0 10px;
   border: 1px double gray;
   box-shadow: 1px 1px 8px gray;
+  border-radius: 4px;
 }
 
 div.container > .row {
